@@ -1,0 +1,33 @@
+TITLE CS2810 Assembler Template
+; Student Name: Bradon Barfuss
+; Assignment Due Date: 3/24/2024
+INCLUDE Irvine32.inc
+.data
+;--------- Enter Data Here
+vSemester byte "CS2810 Spring Semester 2024", 0
+vAssignment byte "Assembler Assignment #1", 0
+vName byte "Bradon Barfuss", 0
+.code
+main PROC
+;--------- Enter Code Below Here
+call ClrScr
+mov dh, 2
+mov dl, 12
+call Gotoxy
+mov edx, offset vSemester
+call WriteString
+mov dh, 3
+mov dl, 12
+call Gotoxy
+mov edx, offset vAssignment
+call WriteString
+mov dh, 4
+mov dl, 12
+call Gotoxy
+mov edx, offset vName
+call WriteString
+xor ecx, ecx
+call ReadChar
+exit
+main ENDP
+END main

@@ -1,0 +1,5 @@
+Clear the display.
+Display the string "CS2810 {Spring | Summer | Fall} Semester XXXX" on row 2, column 12 of the display. Replace  {Spring | Summer | Fall} with the appropriate one, and XXXX with the correct year.
+Display the string "Assembler Assignment #1" on row 3, column 12 of the display.
+Display your name on row 4, column 12 of the display.
+Thoroughly test your project before submitting. 
