@@ -1,0 +1,10 @@
+Clear the display.
+Display the string "CS2810 {Spring | Summer | Fall} Semester XXXX" on row 4, column 33 of the display. Replace  {Spring | Summer | Fall} with the appropriate one, and XXXX with the correct year.
+Display the string "Assembler Assignment #4" on row 5, column 33 .
+Display your name on row 6 column 33 of the display.
+Prompt the user for a FAT16 file date on row 8, column 33 of the display.
+Allow the user to enter the file date value following the prompt. 
+Decode the file date and display the decoded date on row 10, column 33 in the format:
+November 12th, 2011 
+(*Note that you can use FAT16 file date info from the Week 7 Root Area worksheet to test your program) 
+Thoroughly test your project before submitting. 

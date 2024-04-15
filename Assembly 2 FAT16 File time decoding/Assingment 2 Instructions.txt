@@ -1,0 +1,8 @@
+Clear the display.
+Display the string "CS2810 {Spring | Summer | Fall} Semester XXXX" on row 7 column 20 of the display.  Replace  {Spring | Summer | Fall} with the appropriate one, and XXXX with the correct year.
+Display the string "Assembler Assignment #2" on row 8, column 20.
+Display your name on row 9, column 20 of the display.
+Prompt the user for FAT16 file time in hex format and allow the user to enter it on row 11, column 20.
+Decode the entered file time and convert it to ASCII for display.
+Display the converted file time on row 12, column 20.
+Thoroughly test your project before submitting. 
