@@ -1,6 +1,6 @@
 # Assembly Assignments
 
-This repository contains my assembly language assignments completed for Computer Architecture class.
+This repository contains my assembly language assignments completed for my Computer Architecture class.
 
 ## Assignment 1
 
