@@ -31,37 +31,36 @@ INCLUDE Irvine32.inc
 	vRd BYTE "rd, ",0
 
 	vday BYTE "1", 0," "
-	       BYTE "2", 0," "
-	       BYTE "3", 0," "
-	       BYTE "4", 0," "
-		   BYTE "5", 0," "
-	       BYTE "6", 0," "
-	       BYTE "7", 0," "
-		   BYTE "8", 0," "
-	       BYTE "9", 0," "
-	       BYTE "10", 0
-		   BYTE "11", 0
-	       BYTE "12", 0
-	       BYTE "13", 0
-		   BYTE "14", 0
-		   BYTE "15", 0
-	       BYTE "16", 0
-	       BYTE "17", 0
-		   BYTE "18", 0
-		   BYTE "19", 0
-	       BYTE "20", 0
-	       BYTE "20", 0
-		   BYTE "21", 0
-	       BYTE "22", 0
-	       BYTE "23", 0
-		   BYTE "24", 0
-		   BYTE "25", 0
-	       BYTE "26", 0
-	       BYTE "27", 0
-		   BYTE "28", 0
-		   BYTE "29", 0
-	       BYTE "30", 0
-		   BYTE "31", 0
+	BYTE "2", 0," "
+	BYTE "3", 0," "
+	BYTE "4", 0," "
+	BYTE "5", 0," "
+	BYTE "6", 0," "
+	BYTE "7", 0," "
+	BYTE "8", 0," "
+	BYTE "9", 0," "
+	BYTE "10", 0
+	BYTE "11", 0
+	BYTE "12", 0
+	BYTE "13", 0
+	BYTE "14", 0
+	BYTE "15", 0
+	BYTE "16", 0
+	BYTE "17", 0
+	BYTE "18", 0
+	BYTE "19", 0
+	BYTE "20", 0
+	BYTE "21", 0
+	BYTE "22", 0
+	BYTE "23", 0
+	BYTE "24", 0
+	BYTE "25", 0
+	BYTE "26", 0
+	BYTE "27", 0
+	BYTE "28", 0
+	BYTE "29", 0
+	BYTE "30", 0
+	BYTE "31", 0
 
 	
 	vYear BYTE "####", 0
