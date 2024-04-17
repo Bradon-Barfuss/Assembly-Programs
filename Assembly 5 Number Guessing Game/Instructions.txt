@@ -1,0 +1,9 @@
+Clear the display.
+Display the string "CS2810 {Spring | Summer | Fall} Semester XXXX" on row 4, column 0 of the display. Replace  {Spring | Summer | Fall} with the appropriate one, and XXXX with the correct year.
+Display the string "Assembler #5" on row 5, column 0 .
+Display your name on row 6 column 0 of the display.
+Begin displaying the guessing game on row 8, column 0. Display steps on individual rows as shown in the sample run section.
+Generate a random number between 0 and 100. (see Irvine notes below)
+Prompt the user to guess a number between 0 and 100.
+Based on your randomly generated number, and tell the user whether the real number is higher, lower, or correct. (“100 is too high” or “50 is too low”)
+Continue to allow the user to guess until they get the correct number. Once they have the correct value, ask them if they would like to play again. If yes, clear the display and start over. If no, exit the program.
